@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>     // For strlen(), memset()
+#include <string.h> 
 #include <unistd.h>
 #include <arpa/inet.h>
 #include <sys/socket.h>
